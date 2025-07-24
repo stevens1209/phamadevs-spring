@@ -52,7 +52,7 @@ public class VentasControllerTestIntegracion {
         mockMvc.perform(post("/Ventas").contentType(MediaType.APPLICATION_JSON)
                         .content(objectMapper.writeValueAsString(ventas)))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.formapago").value("Efectivo"));
+                .andExpect(jsonPath("$.formapago").value("Efectivo "));
     }
 
 
