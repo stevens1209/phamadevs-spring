@@ -114,7 +114,11 @@ case "$( uname )" in                #(
   NONSTOP* )        nonstop=true ;;
 esac
 
+<<<<<<< HEAD
 CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrapper.jar
+=======
+CLASSPATH="\\\"\\\""
+>>>>>>> f3da9208cc7d356b120c749235578e1717c2b2ef
 
 
 # Determine the Java command to use to start the JVM.
@@ -213,7 +217,11 @@ DEFAULT_JVM_OPTS='"-Xmx64m" "-Xms64m"'
 set -- \
         "-Dorg.gradle.appname=$APP_BASE_NAME" \
         -classpath "$CLASSPATH" \
+<<<<<<< HEAD
         org.gradle.wrapper.GradleWrapperMain \
+=======
+        -jar "$APP_HOME/gradle/wrapper/gradle-wrapper.jar" \
+>>>>>>> f3da9208cc7d356b120c749235578e1717c2b2ef
         "$@"
 
 # Stop when "xargs" is not available.

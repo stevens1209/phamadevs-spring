@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 rootProject.name = 'ProyectoPharmaDevs'
 //include 'PharmaDevs','PharmaDevsSpring'
+=======
+rootProject.name = 'inventario-spring'
+>>>>>>> f3da9208cc7d356b120c749235578e1717c2b2ef

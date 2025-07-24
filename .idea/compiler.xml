@@ -14,9 +14,6 @@
       <module name="inventario-spring" target="17" />
       <module name="inventario-spring.main" target="17" />
       <module name="inventario-spring.test" target="17" />
-      <module name="PharmaDevs" target="17" />
-      <module name="PharmaDevs.main" target="17" />
-      <module name="PharmaDevs.test" target="17" />
       <module name="ProyectoPharmaDevs.PharmaDevs" target="17" />
       <module name="ProyectoPharmaDevs.PharmaDevs.main" target="17" />
       <module name="ProyectoPharmaDevs.PharmaDevs.test" target="17" />
