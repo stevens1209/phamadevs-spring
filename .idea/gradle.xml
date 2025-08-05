@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PharmaDevs" />
+            <option value="$PROJECT_DIR$/PharmaDevsSpring" />
           </set>
         </option>
       </GradleProjectSettings>

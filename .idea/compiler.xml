@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="ProyectoPharmaDevs.PharmaDevsSpring.main" />
+        <module name="ProyectoPharmaDevs.main" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="inventario-spring" target="17" />
       <module name="inventario-spring.main" target="17" />
       <module name="inventario-spring.test" target="17" />
-      <module name="ProyectoPharmaDevs.PharmaDevs" target="17" />
-      <module name="ProyectoPharmaDevs.PharmaDevs.main" target="17" />
-      <module name="ProyectoPharmaDevs.PharmaDevs.test" target="17" />
-      <module name="ProyectoPharmaDevs.PharmaDevsSpring" target="17" />
-      <module name="ProyectoPharmaDevs.PharmaDevsSpring.main" target="17" />
-      <module name="ProyectoPharmaDevs.PharmaDevsSpring.test" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -18,9 +22,12 @@
       <module name="PharmaDevsSpring" options="-parameters" />
       <module name="PharmaDevsSpring.main" options="-parameters" />
       <module name="PharmaDevsSpring.test" options="-parameters" />
+      <module name="ProyectoPharmaDevs" options="-parameters" />
       <module name="ProyectoPharmaDevs.PharmaDevsSpring" options="-parameters" />
       <module name="ProyectoPharmaDevs.PharmaDevsSpring.main" options="-parameters" />
       <module name="ProyectoPharmaDevs.PharmaDevsSpring.test" options="-parameters" />
+      <module name="ProyectoPharmaDevs.main" options="-parameters" />
+      <module name="ProyectoPharmaDevs.test" options="-parameters" />
       <module name="inventario-spring" options="-parameters" />
       <module name="inventario-spring.main" options="-parameters" />
       <module name="inventario-spring.test" options="-parameters" />
