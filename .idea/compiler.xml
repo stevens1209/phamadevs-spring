@@ -15,6 +15,9 @@
       <module name="inventario-spring" target="17" />
       <module name="inventario-spring.main" target="17" />
       <module name="inventario-spring.test" target="17" />
+      <module name="PharmaDevsSpring" target="17" />
+      <module name="PharmaDevsSpring.main" target="17" />
+      <module name="PharmaDevsSpring.test" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,6 +31,9 @@
       <module name="ProyectoPharmaDevs.PharmaDevsSpring.test" options="-parameters" />
       <module name="ProyectoPharmaDevs.main" options="-parameters" />
       <module name="ProyectoPharmaDevs.test" options="-parameters" />
+      <module name="com.pharmadevs.PharmaDevs" options="-parameters" />
+      <module name="com.pharmadevs.PharmaDevs.main" options="-parameters" />
+      <module name="com.pharmadevs.PharmaDevs.test" options="-parameters" />
       <module name="inventario-spring" options="-parameters" />
       <module name="inventario-spring.main" options="-parameters" />
       <module name="inventario-spring.test" options="-parameters" />
